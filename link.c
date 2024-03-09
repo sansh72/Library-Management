@@ -16,7 +16,7 @@ struct taker
 {
 
     char Enrol[100];
-    char book[1000];
+    char book[100];
     int n;
     struct taker *next;
 };
